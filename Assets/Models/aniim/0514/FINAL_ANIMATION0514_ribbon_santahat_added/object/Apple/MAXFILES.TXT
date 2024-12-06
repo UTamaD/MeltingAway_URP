@@ -1,0 +1,6 @@
+﻿E:\Scanned Objects\apple\Apple 3\t$m$p$$$\Apple.max
+E:\Scanned Objects\apple\Apple 3\t$m$p$$$\MAXFILES.TXT
+C:\Program Files\Autodesk\3ds Max 2014\Maps\glare\glare_streaks_star_camera_filter.tif
+E:\Scanned Objects\apple\Apple 3\Textures\Diffuse.tif
+E:\Scanned Objects\apple\Apple 3\Textures\Bumpapple-DM4096_u0_v0apple2-DM4096_u0_v0.exr
+E:\Scanned Objects\apple\Apple 3\Textures\apple-DM4096_u0_v0.exr

@@ -1,0 +1,13 @@
+1. 모자 쓰는 애니메이션 추가 >lvl1/together/hat_on.fbx 추가
+2. 머리 굴러 떨어지는 애니메이션 추가 >lvl2/melt/lvl2_melt.fbx
+3 1단 점프 대기시간 줄임 > lvl1/jump/lvl_jump_shortened.fbx
+4. 점프 모션 사과 추가(사과+모자) >  lvl1/jump/lvl_jump_shortened_hat_apple.fbx
+5. 사과 얻는 모션(사과+모자) > lvl1/together/lvl1_getting_hat_apple.fbx
+6. 아이들(사과+모자) > lvl1/idle/lvl1_idle_hat_apple.fbx
+7. lvl1 롤링(사과+모자) > lvl1/roll/lvl1_roll_hat_apple.fbx
+8. lvl1 팔 잡기(사과 + 모자) > lvl1/together/lvl1_grabbing_arm_hat_apple.fbx
+9. lvl1 팔 확인(사과 + 모자) > lvl1/together/lvl1_checking_out_arms_hat_apple.fbx
+10.  lvl2 아이들 1, 2 (사과 + 모자 ) 추가 > lvl2/idle/idle_lvl2_hat_apple.fbx
+11. lvl2 점프 (사과 + 모자) > lvl2/jump/jump_hat_apple.fbx
+12. lvl2  녹기 ( 사과 + 모자 ) > lvl2/melt/1_hat_apple_off.fbx
+12. lvl2 구르기 ( 사과 + 모자 ) > lvl2/roll/roll_hat_apple.fbx
