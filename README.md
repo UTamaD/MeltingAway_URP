@@ -24,7 +24,8 @@
 
 ## 📌 주요 기능 
 ### 핵심 게임플레이 시스템
-
+![image](https://github.com/user-attachments/assets/def2672e-8f37-40e4-bd22-7fac4c381cd8)
+![image](https://github.com/user-attachments/assets/16b8d325-5cbf-45cc-8194-520c48cfd5f2)
 #### 캐릭터 상태 관리
 - PlayerManager를 통한 상태 관리
  - 배열 기반 아이템 시스템으로 파츠 수집 상태 추적
